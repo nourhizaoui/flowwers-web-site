@@ -1,0 +1,61 @@
+body
+         {
+            background-color:#f7dad9  ;
+         }
+        img {
+            height: 400px ;
+        }
+          h1
+          { color: 
+
+          }
+
+         
+
+          
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #c3aed6;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right ;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 1px 10px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color:#8675a9;
+    color: white;
+  }
+   .oussema{
+       display: flex;
+       align-items: centre ;
+       justify-content: space-between;
+       width:  ;
+   }
+
+.bouhmid{
+    font-family: 'Tangerine', cursive;
+    font-size: 80px;
+    margin: 50px 0 :
+}
+ .nour{
+     flex-grow: 1;
+     text-align: center;
+ }
+ li{
+     list-style-type: none ;
+ }
